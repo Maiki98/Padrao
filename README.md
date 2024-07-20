@@ -1,2 +1,2 @@
-# Padrao
-Botões personalizados para java
+# Standard
+Custom buttons for java (4me)
